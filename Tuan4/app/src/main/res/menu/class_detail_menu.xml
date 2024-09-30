@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add_student"
+        android:title="Thêm sinh viên"
+        android:showAsAction="never" /> <!-- Đảm bảo showAsAction là "never" để nó hiển thị trong dấu 3 chấm -->
+
+    <item
+        android:id="@+id/action_delete_student"
+        android:title="Xóa sinh viên"
+        android:showAsAction="never" />
+</menu>

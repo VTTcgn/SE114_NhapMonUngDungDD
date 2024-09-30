@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add"
+        android:title="Thêm lớp"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_delete"
+        android:title="Xóa lớp"
+        android:showAsAction="never" />
+</menu>
